@@ -1,0 +1,21 @@
+Required:
+- Submit a paper using the EACL Template +
+- Submit a paper that is 3 - 4 pages long +
+- Complete four of five assignments +
+- Work with a partner via GitHub +
+- Preprocess the dataset +
+- Use both NLTK and SpaCy Sentiment Analysis tasks on the dataset +
+
+Optional:
+- Use an Autoformater on your new codebase + (Black used; screenshot provided in the folder "bonus")
+- Score above a 7/10 on the Pylinter (ignore odd/wrong issues via the ignore option) on your new codebase + (screenshot provided in the folder "bonus")
+- Each person has their own version of the preprocessing present + (placed in two different folders)
+- Each person has their own version of the Sentiment Analysis tasks and 2 visualizations (each including both models) present -
+- You have a screenshot proving you used Coli Cluster + (We used DFKI cluster; screenshot provided in the folder "bonus")
+- You combined/improved the preprocessing for the new codebase + (Placed in the folder "Combined Codebase")
+- You specify the differences between the Sentiment Analysis tasks scoring + (Specified in the report)
+- Include a Discussion/Conclusion that includes meaningful points from previous Assignments +
+
+Bonus: (8 possible points)  
+- Complete Bash Script Optional Assignment (4 points) - 
+- Additionally to NLTK/VADER and SpaCy/Textblob, implement a Hugging- Face Sentiment Analysis  (4 points) + (Twitter RoBERTa used; specified in the report)
